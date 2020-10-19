@@ -1,5 +1,7 @@
 # CppND-System-Monitor
 
+It is a Linux system monitor similar to the htop application.
+It shows what’s happening on computer like processes, id, CPU, memory usage, etc.
 
 ![System Monitor](images/sysMonitor.png)
 
